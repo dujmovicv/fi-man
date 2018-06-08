@@ -1,0 +1,2 @@
+# fi-man
+finance manager
